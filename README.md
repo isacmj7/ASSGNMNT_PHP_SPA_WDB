@@ -1,4 +1,4 @@
-# Description: This is a Single Page Application (CRUD) in PHP without using any DB
+# Description: This is a Simple CRUD Application in PHP without using any DB
 # Author: Ishak Islam
 # Create Date: 18/11/2023
 
